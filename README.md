@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![screencapture-xaviernabais-github-io-portfolio-2024-01-15-02_15_47](https://github.com/xavierNabais/xavierNabais/assets/137562900/b9fa869b-3f5b-440d-bca8-0d6c4642c183)
+
 <!--
 **xavierNabais/xavierNabais** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
