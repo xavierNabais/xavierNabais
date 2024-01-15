@@ -1,9 +1,11 @@
-### Hi there 👋
 
 ![Screenshot_1](https://github.com/xavierNabais/xavierNabais/assets/137562900/457cc654-0e43-4ce2-832a-d78a0887c219)
-![screencapture-xaviernabais-github-io-portfolio-2024-01-15-02_15_47](https://github.com/xavierNabais/xavierNabais/assets/137562900/a99daba5-a4f5-4c29-9af1-677a1dd9eef2)
-![skills](https://github.com/xavierNabais/xavierNabais/assets/137562900/3d7386b4-3fb2-4b52-9c62-0d917d445a4f)
+### Hi there 👋
 
+My name is Xavier and I have been a digital enthusiast since childhood. From an early age, I explored internet browsing and played many games, which allowed me to develop various skills and understand the programming behind them. In addition, I acquired extensive knowledge on how to use websites, as well as a great deal of experience in user interface, easily distinguishing between good and bad user experiences.
+  
+Check my portfolio website! 
+https://xaviernabais.github.io/portfolio/
 <!--
 **xavierNabais/xavierNabais** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
