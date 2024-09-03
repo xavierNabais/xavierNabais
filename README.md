@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Xavier, and I've been a digital enthusiast since childhood. My journey into tech started early with a passion for internet browsing and gaming, which sparked my curiosity about the programming behind them. Over the years, I've honed my skills in full-stack development, building web applications that offer seamless and intuitive user experiences. My keen eye for detail helps me distinguish between good and bad user interfaces, ensuring that I deliver the best possible products.
+My name is Xavier and 've always been fascinated by the digital world, from exploring the early days of the internet to playing video games. This natural curiosity led me to discover how everything works behind the screens. Along the way, I developed skills in design, user experience, and programming. Today, that curiosity has evolved into a career as a Full Stack Developer, where I work to create innovative web applications that genuinely benefit users and make a positive impact in the world.
 
 🌐 **Web Development Skills:**
 - Frontend: HTML, CSS, JavaScript, React, Vue.js
